@@ -6,7 +6,7 @@ export const Differentiation = () => {
     {
       icon: <MapPin className="w-8 h-8 text-blue-700" />,
       title: "Local Market Expertise",
-      description: "Deep knowledge of the Seattle & King County real estate landscape to help you win offers."
+      description: "Deep knowledge of the Edmond County real estate landscape to help you win offers."
     },
     {
       icon: <Phone className="w-8 h-8 text-blue-700" />,
